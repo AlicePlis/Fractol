@@ -15,6 +15,8 @@ This new project will make you discover/use the mathematical notion of complex n
 ## Compiling and running
 Run `make`. An executable will compile.
 Run it with `./fractol [fractol_name/number]`.
+
+
 1 : mandelbrot
 2 : julia
 3 : spider
