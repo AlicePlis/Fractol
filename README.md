@@ -1,6 +1,6 @@
 # Fractol
 
-![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/1.png)
+![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/12.png)
 
 ## Project objective
 This new project will make you discover/use the mathematical notion of complex numbers and to take a peek at the concept of optimization in computer graphics.
@@ -41,9 +41,7 @@ Run it with `./fractol [fractol_name/number]`.
 ![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/7.png)
 ![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/8.png)
 ![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/9.png)
-![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/10.png)
 ![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/11.png)
-![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/12.png)
 
 
 You can see control instructions by clicking [i]
