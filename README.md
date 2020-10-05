@@ -18,25 +18,17 @@ Run it with `./fractol [fractol_name/number]`.
 
 
 1 : mandelbrot
-
 2 : julia
-
 3 : spider
-
 4 : newton
-
 5 : flowey
-
 6 : fern
-
 7 : tree
-
 8 : levy
 
 ![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/2.png)
 ![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/3.png)
 ![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/4.png)
-![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/5.png)
 ![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/6.png)
 ![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/7.png)
 ![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/8.png)
