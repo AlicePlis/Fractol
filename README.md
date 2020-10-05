@@ -1,6 +1,6 @@
 # Fractol
 
-
+![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/1.png)
 
 ## Project objective
 This new project will make you discover/use the mathematical notion of complex numbers and to take a peek at the concept of optimization in computer graphics.
