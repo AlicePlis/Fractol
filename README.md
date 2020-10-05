@@ -39,7 +39,7 @@ Run it with `./fractol [fractol_name/number]`.
 ![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/6.png)
 ![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/7.png)
 ![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/8.png)
-![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/9.png)
+![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/10.png)
 ![screenshot](https://github.com/AlicePlis/Fractol/blob/main/img/11.png)
 
 
